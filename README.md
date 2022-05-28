@@ -9,6 +9,9 @@ To adhere to the general layout of a given static comp while experimenting with 
 #### Project Specs
 The rubric and specs can be found [here](https://frontend.turing.edu/projects/M2-static-comp-challenge.html).
 
+#### Deployed Page
+[Click Here](https://kpn678.github.io/static-comp/)
+
 ## Set Up
 1. Fork this [repository](https://github.com/kpn678/static-comp.git).
 2. Clone the repository into your local machine and navigate into it.
